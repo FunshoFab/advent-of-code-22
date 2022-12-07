@@ -8,7 +8,7 @@ class Day00 {
     }
 
     fun part2(input: List<String>): Int {
-        return input.size
+        return part1(input)
     }
 }
 
